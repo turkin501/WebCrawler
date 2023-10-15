@@ -1,2 +1,2 @@
 # WebCrawler
-Tool crawling companies info from index500.vn 
+Tool crawling companies info from index500.vn and output them to an excel file
