@@ -1,2 +1,2 @@
 # WebCrawler
-A tool to crawl companies info 
+Tool crawling companies info from index500.vn 
